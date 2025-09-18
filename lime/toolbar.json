@@ -1,0 +1,10 @@
+{
+	"version": 1,
+	"bar": [
+		{
+			"type": "module",
+			"path": "main.py",
+			"author": "Karl Arabit"
+		}
+	]
+}
